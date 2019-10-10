@@ -1,0 +1,20 @@
+Metadata-Version: 1.2
+Name: uiautomator2
+Version: 0.3.3
+Summary: Python Wrapper for Android UiAutomator2 test tool
+Home-page: https://github.com/codeskyblue/uiautomator2
+Author: codeskyblue
+Author-email: codeskyblue@gmail.com
+License: MIT
+Description: Documentation in <https://github.com/openatx/uiautomator2>
+        
+        
+Platform: UNKNOWN
+Classifier: Development Status :: 4 - Beta
+Classifier: Environment :: Console
+Classifier: Intended Audience :: Developers
+Classifier: Operating System :: POSIX
+Classifier: Programming Language :: Python :: 3
+Classifier: Topic :: Software Development :: Libraries :: Python Modules
+Classifier: Topic :: Software Development :: Testing
+Requires-Python: >=3.5

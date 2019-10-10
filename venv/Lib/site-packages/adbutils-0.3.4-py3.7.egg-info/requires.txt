@@ -1,0 +1,5 @@
+whichcraft
+requests
+six
+deprecation<3.0,>=2.0.6
+retry>=0.9

@@ -1,0 +1,3 @@
+[console_scripts]
+u2cli = uiautomator2.cli:main
+
